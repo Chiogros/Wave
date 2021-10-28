@@ -19,4 +19,4 @@ In your activity layout, set
 ```
 
 ## How it renders
-<img src="Screenshot/wave.png" alt="Wave example" width="200"/>
+<img src="screenshot/wave.png" alt="Wave example" width="200"/>
